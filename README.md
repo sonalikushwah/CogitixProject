@@ -4,8 +4,8 @@
 
 
 Installation
-1. Clone the repository:  git clone https://github.com/your-username/my-rick-morty-sonali-app.git
-2. Go to the project folder :cd /my-rick-morty-sonali-app
+1. Clone the repository:  git clone https://github.com/sonalikushwah/CogitixProject.git
+2. Go to the project folder :cd /CogitixProject
 3. Install dependencies: npm install
 4. Run the app in development mode: npm run dev
 5. Build the app for production: npm run build
